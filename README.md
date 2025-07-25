@@ -154,25 +154,10 @@ pip install -r requirements_part1.txt
 
 ---
 
-<h2 style="display: flex; justify-content: space-between; align-items: left;">
-  Google Looker Studio Dashboard
-  <img src="sup_imgs/looker_logo.png" alt="Looker Studio Logo" width="180"/>
-</h2>
-
-
 <h2>
   Google Looker Studio Dashboard
-  <img src="sup_imgs/looker_logo.png" alt="Looker Logo" align="right" width="130">
+  <img src="sup_imgs/looker_logo.png" alt="Looker Logo" align="right" width="180">
 </h2>
-
-
-<table width="100%">
-  <tr>
-    <td><h2>Google Looker Studio Dashboard</h2></td>
-    <td align="right"><img src="sup_imgs/looker_logo.png" alt="Looker Studio Logo" width="180"/></td>
-  </tr>
-</table>
-
 
 
 An interactive dashboard was created to explore:
