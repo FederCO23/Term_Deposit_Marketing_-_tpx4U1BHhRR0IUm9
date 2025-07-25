@@ -164,6 +164,8 @@ An interactive dashboard was created to explore:
 - Cluster profiles (k=5)  
 - Including: balance account, age, education, job and marital distribution, loan, housing, and default conditions.
 
+[Dashboard link](https://lookerstudio.google.com/reporting/071720b4-7c2a-40b3-bfc2-994c4ef73d3d)  
+
 ---
 
 ## 📁 Repository Structure
