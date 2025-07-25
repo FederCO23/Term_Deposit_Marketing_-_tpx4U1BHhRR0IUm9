@@ -159,6 +159,8 @@ pip install -r requirements_part1.txt
   <img src="sup_imgs/looker_logo.png" alt="Looker Logo" align="right" width="180">
 </h2>
 
+<img src="sup_imgs/looker_dashboard_preview.png" alt="Efficiency Curve" width="600">
+
 
 An interactive dashboard was created to explore:
 - Cluster profiles (k=5)  
