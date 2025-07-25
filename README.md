@@ -7,7 +7,7 @@
     <td style="vertical-align: top; padding-right: 20px; line-height: 1.6; font-size: 16px;">
 
 <b>The goal of this project</b> was to improve and bring efficiency to a European bank's marketing campaign through Machine Learning.  
-The work was divided into two parts: first, developing a model to effectively identify potential term deposit subscribers; and second, analyzing subscriber segmentation to guide future marketing actions.
+The work was divided into two parts: first, developing a model to effectively identify potential term deposit subscribers, and second, analyzing subscriber segmentation to guide future marketing actions.
 
 This study showcases:
 - Data preprocessing  
@@ -159,7 +159,6 @@ pip install -r requirements_part1.txt
   <img src="sup_imgs/looker_logo.png" alt="Looker Studio Logo" width="180"/>
 </h2>
 
-## Google Looker Studio Dashboard
 
 An interactive dashboard was created to explore:
 - Cluster profiles (k=5)  
@@ -173,6 +172,7 @@ An interactive dashboard was created to explore:
 Term_Deposit_Marketing/
 ├── dashboard/                        # dashboard gen files and data
 ├── data/                             # main dataset
+├── sup_imgs/                         # support images for README file
 ├── README.md                         # This file
 ├── TermDepositMarketing_part1.ipynb  # Part1 notebook
 ├── TermDepositMarketing_part2.ipynb  # Part2 notebook
