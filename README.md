@@ -2,11 +2,13 @@
 
 ---
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px; line-height: 1.6; font-size: 16px;">
+</td>
+    <td style="text-align: center;">
+      <img src="sup_imgs/bank-callcenter.png" alt="Term Deposit Campaign" width="1400">
+    </td>
 
-<b>The goal of this project</b> was to improve and bring efficiency to a European bank's marketing campaign through Machine Learning.  
+
+**The goal of this project** was to improve and bring efficiency to a European bank's marketing campaign through Machine Learning.  
 The work was divided into two parts: first, developing a model to effectively identify potential term deposit subscribers, and second, analyzing subscriber segmentation to guide future marketing actions.
 
 This study showcases:
@@ -15,16 +17,6 @@ This study showcases:
 - Predictive modeling  
 - Client segmentation for business-oriented communication of insights  
 
-<br>
-
-This project was completed as part of <b>Apziva</b>.
-
-</td>
-    <td style="text-align: center;">
-      <img src="sup_imgs/bank-callcenter.png" alt="Term Deposit Campaign" width="1400">
-    </td>
-  </tr>
-</table>
 
 ---
 
