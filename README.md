@@ -138,11 +138,11 @@ pip install -r requirements_part1.txt
 
 | Category          | Tools Used                                                        |
 |-------------------|--------------------------------------------------------------------|
-| Data Manipulation | `pandas`, `numpy`, `DuckDB`                                        |
-| Machine Learning  | `scikit-learn`, `imblearn`, `LazyPredict`, `LightGBM`, `XGBClassifier`, `KMeans` |
-| Visualization     | `matplotlib`, `seaborn`, `PCA`                                     |
-| Deployment        | `Streamlit` (interactive dashboard)                                |
-| Evaluation        | Cross-validation, Confusion Matrix, ROC AUC                        |
+| Data Manipulation | `pandas`, `numpy`, `duckdb`                                        |
+| Machine Learning  | `scikit-learn`, `lazypredict`, `imblearn`, `LightGBM`, `RandomForestClassifier`, XGBClassifier`, `KMeans` |
+| Visualization     | `matplotlib`, `seaborn`, `plotly`, `PCA`, `t-SNE`, `UMAP`|                      
+| Dashboard         | `Google Looker Studio`, `Streamlit`|
+ |
 
 ---
 
