@@ -142,7 +142,7 @@ pip install -r requirements_part1.txt
 | Machine Learning  | `scikit-learn`, `lazypredict`, `imblearn`, `LightGBM`, `RandomForestClassifier`, XGBClassifier`, `KMeans` |
 | Visualization     | `matplotlib`, `seaborn`, `plotly`, `PCA`, `t-SNE`, `UMAP`|                      
 | Dashboard         | `Google Looker Studio`, `Streamlit`|
- |
+
 
 ---
 
