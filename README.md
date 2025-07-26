@@ -173,7 +173,7 @@ An interactive dashboard was created to explore:
   <img src="sup_imgs/streamlit-logo-primary-colormark-darktext.png" alt="Looker Logo" align="right" width="180">
 </h3>
 
-As an alternative, if you want to visualize a version of the dashboard using Streamlit. The code is available at [`.\dashboard\streamlit\streamlit_dashboard.py`](\dashboard\streamlit\streamlit_dashboard.py)
+As an alternative, if you want to visualize a version of the dashboard using Streamlit. The code is available at [`./dashboard/streamlit/streamlit_dashboard.py`](./dashboard/streamlit/streamlit_dashboard.py)
 
 Run this command to initialize the local streamlit dashboard server:
 
