@@ -17,6 +17,7 @@ This study showcases:
 - Predictive modeling  
 - Client segmentation for business-oriented communication of insights  
 
+This project was completed as part of **Apziva**.
 
 ---
 
